@@ -15,7 +15,7 @@ Supported Functions
 Demo
 ---
 
-![Demo](./art/demo1.gif)
+![Demo](./art/demo.gif)
 
 Thanks
 -------
