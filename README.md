@@ -15,7 +15,7 @@ Supported Functions
 Demo（GIF效果图较大）
 ---
 
-![Demo](./art/demo1.gif)
+![Demo](./art/demo.gif)
 
 Thanks
 -------
