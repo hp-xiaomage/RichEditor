@@ -1,0 +1,1014 @@
+[
+    {
+        "outputFile": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-vi\\values-vi.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 74,
+                    "endOffset": 125
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 74,
+                        "endOffset": 125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 130,
+                    "endColumn": 67,
+                    "endOffset": 193
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 130,
+                        "endColumn": 67,
+                        "endOffset": 193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 198,
+                    "endColumn": 65,
+                    "endOffset": 259
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 198,
+                        "endColumn": 65,
+                        "endOffset": 259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 264,
+                    "endColumn": 64,
+                    "endOffset": 324
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 264,
+                        "endColumn": 64,
+                        "endOffset": 324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 329,
+                    "endColumn": 75,
+                    "endOffset": 400
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endColumn": 75,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 405,
+                    "endColumn": 74,
+                    "endOffset": 475
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 405,
+                        "endColumn": 74,
+                        "endOffset": 475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 480,
+                    "endColumn": 66,
+                    "endOffset": 542
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 480,
+                        "endColumn": 66,
+                        "endOffset": 542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 547,
+                    "endColumn": 64,
+                    "endOffset": 607
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 547,
+                        "endColumn": 64,
+                        "endOffset": 607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 612,
+                    "endColumn": 71,
+                    "endOffset": 679
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 612,
+                        "endColumn": 71,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 684,
+                    "endColumn": 67,
+                    "endOffset": 747
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 684,
+                        "endColumn": 67,
+                        "endOffset": 747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 752,
+                    "endColumn": 67,
+                    "endOffset": 815
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 752,
+                        "endColumn": 67,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 820,
+                    "endColumn": 53,
+                    "endOffset": 869
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 820,
+                        "endColumn": 53,
+                        "endOffset": 869
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 874,
+                    "endColumn": 68,
+                    "endOffset": 938
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 874,
+                        "endColumn": 68,
+                        "endOffset": 938
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 943,
+                    "endColumn": 59,
+                    "endOffset": 998
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 943,
+                        "endColumn": 59,
+                        "endOffset": 998
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1003,
+                    "endColumn": 63,
+                    "endOffset": 1062
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1003,
+                        "endColumn": 63,
+                        "endOffset": 1062
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1067,
+                    "endColumn": 60,
+                    "endOffset": 1123
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1067,
+                        "endColumn": 60,
+                        "endOffset": 1123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1128,
+                    "endColumn": 62,
+                    "endOffset": 1186
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1128,
+                        "endColumn": 62,
+                        "endOffset": 1186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1191,
+                    "endColumn": 64,
+                    "endOffset": 1251
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1191,
+                        "endColumn": 64,
+                        "endOffset": 1251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1256,
+                    "endColumn": 65,
+                    "endOffset": 1317
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1256,
+                        "endColumn": 65,
+                        "endOffset": 1317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1322,
+                    "endColumn": 59,
+                    "endOffset": 1377
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1322,
+                        "endColumn": 59,
+                        "endOffset": 1377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1382,
+                    "endColumn": 56,
+                    "endOffset": 1434
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1382,
+                        "endColumn": 56,
+                        "endOffset": 1434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1439,
+                    "endColumn": 57,
+                    "endOffset": 1492
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1439,
+                        "endColumn": 57,
+                        "endOffset": 1492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1497,
+                    "endColumn": 61,
+                    "endOffset": 1554
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1497,
+                        "endColumn": 61,
+                        "endOffset": 1554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1559,
+                    "endColumn": 61,
+                    "endOffset": 1616
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1559,
+                        "endColumn": 61,
+                        "endOffset": 1616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1621,
+                    "endColumn": 64,
+                    "endOffset": 1681
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1621,
+                        "endColumn": 64,
+                        "endOffset": 1681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1686,
+                    "endColumn": 54,
+                    "endOffset": 1736
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1686,
+                        "endColumn": 54,
+                        "endOffset": 1736
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1741,
+                    "endColumn": 64,
+                    "endOffset": 1801
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1741,
+                        "endColumn": 64,
+                        "endOffset": 1801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1806,
+                    "endColumn": 56,
+                    "endOffset": 1858
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1806,
+                        "endColumn": 56,
+                        "endOffset": 1858
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1863,
+                    "endColumn": 107,
+                    "endOffset": 1966
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1863,
+                        "endColumn": 107,
+                        "endOffset": 1966
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1971,
+                    "endColumn": 58,
+                    "endOffset": 2025
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1971,
+                        "endColumn": 58,
+                        "endOffset": 2025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2030,
+                    "endColumn": 72,
+                    "endOffset": 2098
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2030,
+                        "endColumn": 72,
+                        "endOffset": 2098
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2103,
+                    "endColumn": 56,
+                    "endOffset": 2155
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2103,
+                        "endColumn": 56,
+                        "endOffset": 2155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2160,
+                    "endColumn": 63,
+                    "endOffset": 2219
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2160,
+                        "endColumn": 63,
+                        "endOffset": 2219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2224,
+                    "endColumn": 72,
+                    "endOffset": 2292
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2224,
+                        "endColumn": 72,
+                        "endOffset": 2292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2297,
+                    "endColumn": 95,
+                    "endOffset": 2388
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2297,
+                        "endColumn": 95,
+                        "endOffset": 2388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2393,
+                    "endColumn": 58,
+                    "endOffset": 2447
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2393,
+                        "endColumn": 58,
+                        "endOffset": 2447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2452,
+                    "endColumn": 153,
+                    "endOffset": 2601
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2452,
+                        "endColumn": 153,
+                        "endOffset": 2601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2606,
+                    "endColumn": 97,
+                    "endOffset": 2699
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2606,
+                        "endColumn": 97,
+                        "endOffset": 2699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2704,
+                    "endColumn": 75,
+                    "endOffset": 2775
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2704,
+                        "endColumn": 75,
+                        "endOffset": 2775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2780,
+                    "endColumn": 71,
+                    "endOffset": 2847
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2780,
+                        "endColumn": 71,
+                        "endOffset": 2847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2852,
+                    "endColumn": 65,
+                    "endOffset": 2913
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2852,
+                        "endColumn": 65,
+                        "endOffset": 2913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2918,
+                    "endColumn": 74,
+                    "endOffset": 2988
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2918,
+                        "endColumn": 74,
+                        "endOffset": 2988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2993,
+                    "endColumn": 80,
+                    "endOffset": 3069
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2993,
+                        "endColumn": 80,
+                        "endOffset": 3069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3074,
+                    "endColumn": 115,
+                    "endOffset": 3185
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 3074,
+                        "endColumn": 115,
+                        "endOffset": 3185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3190,
+                    "endColumn": 69,
+                    "endOffset": 3255
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 3190,
+                        "endColumn": 69,
+                        "endOffset": 3255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3260,
+                    "endColumn": 97,
+                    "endOffset": 3353
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 3260,
+                        "endColumn": 97,
+                        "endOffset": 3353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3358,
+                    "endColumn": 54,
+                    "endOffset": 3408
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3358,
+                        "endColumn": 54,
+                        "endOffset": 3408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3413,
+                    "endColumn": 72,
+                    "endOffset": 3481
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 3413,
+                        "endColumn": 72,
+                        "endOffset": 3481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3486,
+                    "endColumn": 74,
+                    "endOffset": 3556
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 3486,
+                        "endColumn": 74,
+                        "endOffset": 3556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3561,
+                    "endColumn": 54,
+                    "endOffset": 3611
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 3561,
+                        "endColumn": 54,
+                        "endOffset": 3611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3616,
+                    "endColumn": 77,
+                    "endOffset": 3689
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 3616,
+                        "endColumn": 77,
+                        "endOffset": 3689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3694,
+                    "endColumn": 68,
+                    "endOffset": 3758
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 3694,
+                        "endColumn": 68,
+                        "endOffset": 3758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3763,
+                    "endColumn": 63,
+                    "endOffset": 3822
+                },
+                "from": {
+                    "file": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 3763,
+                        "endColumn": 63,
+                        "endOffset": 3822
+                    }
+                }
+            }
+        ]
+    }
+]

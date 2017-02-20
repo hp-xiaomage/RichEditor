@@ -1,0 +1,33 @@
+<!DOCTYPE>
+<html>
+<head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport"
+          content="width=device-width,user-scalable=yes  initial-scale=1.0, maximum-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="music.css">
+
+</head>
+<body >
+
+
+    <div id="player">
+        <!-- avatar -->
+        <div class="cover">
+            <img id="cover" src="" alt="加载中">
+            <img id="playOrpause"  src="start.png" />
+        </div>
+        <!-- content -->
+        <div class="music_content">
+            <!-- song name -->
+            <p id="song_name" class="song">歌曲名</p>
+            <!-- author -->
+            <p id="song_author" class="author">作者名</p>
+        </div>
+    </div>
+    <dir style="clear: both;"></dir>
+    <p id="playflag"  style="display:none">0</p>
+    <script type="text/javascript" src="jquery-2.1.3.min.js"></script>
+    <script type="text/javascript" src="music.js"></script>
+</body>
+</html>

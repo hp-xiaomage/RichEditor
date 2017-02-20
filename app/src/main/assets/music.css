@@ -1,0 +1,84 @@
+/**
+ * Copyright (C) 2015 Wasabeef
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+@charset "UTF-8";
+body{
+    margin: 0 auto;
+	overflow: hidden;
+    color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#player {
+    margin-top: 10px;
+    border-radius: 2px;
+    box-shadow: 0 0 10px #ccc;
+    background: #fff;
+    height: 66px;
+    width: 99%;
+}
+/*头像*/
+.cover {
+    width: 66px;
+    height: 66px;
+    position: relative;
+    zoom: 1;
+    float: left;
+}
+#playOrpause {
+    width: 50%;
+    height: 50%;
+	margin:15px 15px;
+    position:absolute;
+}
+.cover img {
+    width: 100%;
+    height: 100%;
+	position:absolute;
+	z-index:1;
+    border-top-left-radius: 2px;
+}
+
+.music_content p {
+	width: auto;
+}
+.music_content .song {
+	position: relative;
+    padding-left: 18px;
+	height: 30px;
+    margin-bottom: 10px;
+    line-height: 30px;
+    font-size: 14px;
+    font-weight: normal;
+    margin-top: 0px;
+    width: auto;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    word-wrap: normal;
+    zoom: 1;
+}
+.music_content .author {
+	padding-left: 20px;
+	font-size: 12px;
+	width: auto;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    word-wrap: normal;
+}
+
+
+

@@ -1,0 +1,81 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="none"
+         >
+
+
+        <LinearLayout
+            android:id="@+id/collect_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10px"
+            android:layout_marginBottom="10px"
+            android:orientation="horizontal"
+             >
+            <TextView
+                android:id="@+id/default_color"
+                android:layout_width="120px"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10px"
+                
+                android:gravity="center"
+                android:text="默认"
+                android:textColor="@color/black"/>
+
+            <TextView
+                android:id="@+id/cccccc_color"
+                android:layout_width="120px"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10px"
+                android:gravity="center"
+                android:text="T"
+                android:background="@color/a868686"/>
+            <TextView
+                android:id="@+id/gray_color"
+                android:layout_width="120px"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10px"
+                android:padding="20px"
+                android:gravity="center"
+                android:text="T"
+                android:background="@color/a846954"/>
+            <TextView
+                android:id="@+id/four_color"
+                android:layout_width="120px"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10px"
+                android:padding="20px"
+                android:gravity="center"
+                android:text="T"
+                android:background="@color/a687213"/>
+
+
+            <TextView
+                android:id="@+id/green_color"
+                android:layout_width="120px"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10px"
+                android:padding="20px"
+                android:gravity="center"
+                android:text="T"
+                android:background="@color/a4e93aa"/>
+
+
+
+        </LinearLayout>
+
+
+    </HorizontalScrollView>
+</RelativeLayout>

@@ -1,0 +1,204 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:gravity="bottom"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/view_header"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/edit_release"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="left"
+            android:gravity="center"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="保存"
+            android:textColor="@color/home_top_click_text"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:id="@+id/action_undo"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/action_redo"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:src="@mipmap/edit_revoke" />
+
+        <ImageView
+            android:id="@+id/action_redo"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/edit_style"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:src="@mipmap/edit_repeat" />
+        <ImageView
+            android:id="@+id/edit_style"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/edit_other"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:src="@mipmap/edit_textcolor_disable" />
+        <ImageView
+            android:id="@+id/edit_other"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:src="@mipmap/edit_other_disable" />
+
+
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/edit_bottom_linear"
+        android:layout_below="@+id/view_header"
+        android:fillViewport="true"
+        android:orientation="vertical">
+
+
+        <com.xmg.richeditor_android.richeditor.RichEditor
+            android:id="@+id/edit_addcontent"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white" />
+
+
+    </ScrollView>
+
+    <RelativeLayout
+        android:id="@+id/edit_bottom_linear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:visibility="visible">
+        <TextView
+            android:id="@+id/edit_bottom_top"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textColor="@color/theme_info_like_comm"
+            android:visibility="visible"
+            android:text="@string/edit_clickedit"/>
+        <HorizontalScrollView
+            android:id="@+id/edit_bottom_scroll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/commtent_reply_bg"
+            android:scrollbars="none"
+            android:visibility="invisible">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+
+                <ImageButton
+                    android:id="@+id/action_bold"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:background="@color/float_transparent"
+                    android:contentDescription="@null"
+                    android:src="@mipmap/edit_b" />
+
+                <ImageButton
+                    android:id="@+id/action_italic"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:background="@null"
+                    android:contentDescription="@null"
+                    android:src="@mipmap/edit_i" />
+
+
+                <ImageButton
+                    android:id="@+id/action_underline"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:background="@null"
+                    android:contentDescription="@null"
+                    android:src="@mipmap/edit_u" />
+
+                <ImageButton
+                    android:id="@+id/action_heading1"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:background="@null"
+                    android:contentDescription="@null"
+                    android:src="@mipmap/edit_h1" />
+
+                <ImageButton
+                    android:id="@+id/action_heading2"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:background="@null"
+                    android:contentDescription="@null"
+                    android:src="@mipmap/edit_h2" />
+
+                <ImageButton
+                    android:id="@+id/action_heading3"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:background="@null"
+                    android:contentDescription="@null"
+                    android:src="@mipmap/edit_h3" />
+
+
+                <ImageButton
+                    android:id="@+id/action_align_left"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:background="@null"
+                    android:contentDescription="@null"
+                    android:src="@mipmap/edit_left" />
+
+                <ImageButton
+                    android:id="@+id/action_align_center"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:background="@null"
+                    android:contentDescription="@null"
+                    android:src="@mipmap/edit_center" />
+
+                <ImageButton
+                    android:id="@+id/action_align_right"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:background="@null"
+                    android:contentDescription="@null"
+                    android:src="@mipmap/edit_right" />
+
+                <ImageButton
+                    android:id="@+id/action_blockquote"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:background="@null"
+                    android:contentDescription="@null"
+                    android:src="@mipmap/edit_use" />
+
+
+
+
+            </LinearLayout>
+        </HorizontalScrollView>
+
+
+    </RelativeLayout>
+</RelativeLayout>

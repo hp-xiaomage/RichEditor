@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\messaging_api.js",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\raw\\messaging_api.js"
+    },
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\launch_screen_api.js",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\raw\\launch_screen_api.js"
+    },
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\contacts_api.js",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\raw\\contacts_api.js"
+    },
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\xwalk.pak",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\raw\\xwalk.pak"
+    },
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\device_capabilities_api.js",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\raw\\device_capabilities_api.js"
+    },
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\icudtl.dat",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\raw\\icudtl.dat"
+    },
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\presentation_api.js",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\raw\\presentation_api.js"
+    }
+]

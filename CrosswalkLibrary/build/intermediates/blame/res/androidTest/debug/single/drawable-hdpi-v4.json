@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\pageinfo_warning_major.png",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\pageinfo_warning_major.png"
+    },
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_menu_share_holo_light.png",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\dropdown_popup_background_down.9.png",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\dropdown_popup_background_down.9.png"
+    },
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_menu_search_holo_light.png",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_menu_search_holo_light.png"
+    },
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\color_picker_advanced_select_handle.png",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\color_picker_advanced_select_handle.png"
+    },
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ondemand_overlay.9.png",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ondemand_overlay.9.png"
+    },
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\dropdown_popup_background_up.9.png",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\dropdown_popup_background_up.9.png"
+    },
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\bubble.9.png",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\bubble.9.png"
+    },
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\bubble_arrow_up.png",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\bubble_arrow_up.png"
+    }
+]

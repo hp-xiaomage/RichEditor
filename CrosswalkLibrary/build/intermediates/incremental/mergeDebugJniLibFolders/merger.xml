@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\edittext\RichEditor-android\CrosswalkLibrary\src\main\jniLibs"><file name="armeabi-v7a/libxwalkcore.so" path="E:\edittext\RichEditor-android\CrosswalkLibrary\src\main\jniLibs\armeabi-v7a\libxwalkcore.so"/></source></dataSet><dataSet config="debug"><source path="E:\edittext\RichEditor-android\CrosswalkLibrary\src\debug\jniLibs"/></dataSet></merger>

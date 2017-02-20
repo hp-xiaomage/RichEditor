@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item
+		android:id="@+id/add_line"
+		android:title="添加分割线" />
+
+	<item
+		android:id="@+id/add_image"
+		android:title="添加图片" />
+
+	<item
+		android:id="@+id/add_song"
+		android:title="添加歌曲" />
+	<item
+		android:id="@+id/add_lyric"
+		android:title="添加歌词" />
+</menu>

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dropdown_popup_background_down.9.png",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\dropdown_popup_background_down.9.png"
+    },
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\color_button_background.xml",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\color_button_background.xml"
+    },
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_menu_search_holo_light.png",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_menu_search_holo_light.png"
+    },
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\pageinfo_warning_major.png",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\pageinfo_warning_major.png"
+    },
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bubble.9.png",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\bubble.9.png"
+    },
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\color_picker_advanced_select_handle.png",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\color_picker_advanced_select_handle.png"
+    },
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\color_picker_border.xml",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\color_picker_border.xml"
+    },
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bubble_arrow_up.png",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\bubble_arrow_up.png"
+    },
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_menu_share_holo_light.png",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dropdown_popup_background_up.9.png",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\dropdown_popup_background_up.9.png"
+    },
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dropdown_popup_background.xml",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\dropdown_popup_background.xml"
+    },
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ondemand_overlay.9.png",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\ondemand_overlay.9.png"
+    }
+]

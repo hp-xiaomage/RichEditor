@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="a494949">#494949</color>
+    <color name="a846954">#846954</color>
+    <color name="a687213">#687213</color>
+    <color name="a4e93aa">#4e93aa</color>
+    <color name="a868686">#868686</color>
+    <color name="a4d4d4d">#4d4d4d</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="home_top_click_text">#F8D00C</color>
+    <color name="theme_info_like_comm">#969696</color>
+    <color name="commtent_reply_bg">#e7e5e0</color>
+    <color name="float_transparent">#00000000</color>
+</resources>

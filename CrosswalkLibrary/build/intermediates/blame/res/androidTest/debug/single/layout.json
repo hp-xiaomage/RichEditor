@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\validation_message_bubble.xml",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\validation_message_bubble.xml"
+    },
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\multi_field_time_picker_dialog.xml",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\multi_field_time_picker_dialog.xml"
+    },
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\date_time_picker_dialog.xml",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\date_time_picker_dialog.xml"
+    },
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\color_picker_dialog_title.xml",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\color_picker_dialog_title.xml"
+    },
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dropdown_item.xml",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\color_picker_dialog_content.xml",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\color_picker_dialog_content.xml"
+    },
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\date_time_suggestion.xml",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\date_time_suggestion.xml"
+    },
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\color_picker_advanced_component.xml",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\color_picker_advanced_component.xml"
+    },
+    {
+        "merged": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\two_field_date_picker.xml",
+        "source": "E:\\edittext\\RichEditor-android\\CrosswalkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\two_field_date_picker.xml"
+    }
+]
