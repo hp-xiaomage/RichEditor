@@ -12,7 +12,7 @@ Supported Functions
 ######支持图片选择插入
 ######支持richeditor-android所支持的任何东西
 
-Demo
+Demo（GIF效果图较大）
 ---
 
 ![Demo](./art/demo1.gif)
