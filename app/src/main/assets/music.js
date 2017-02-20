@@ -49,7 +49,7 @@ if(url.indexOf("?")!=-1){
 
     //请求歌曲详情，地址改成外网的就行
     $.ajax({
-        url: "http://likesongs.cn/api/v1/song/"+songId,
+        url: "你的歌曲详情获取接口"+songId,
         type: "get",
         dataType:'json',
         success:function (CallBack){
